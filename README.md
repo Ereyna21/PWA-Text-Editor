@@ -36,4 +36,14 @@ For additional questions, you can reach me through:
 - GitHub: [Ereyna21](https://github.com/Ereyna21)
 - Email: Ereyna21075@gmail.com
 
+Repository Link:
+
+https://github.com/Ereyna21/PWA-Text-Editor
+
+ 
+
+Deploy Link: 
+
+https://pwa-text-editor-e21-9372dfcfeda3.herokuapp.com
+
 ![Screenshot](image.png)
